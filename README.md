@@ -1,4 +1,6 @@
 # agrojaya-android
 v0.5
 
-To be inserted
+Aplikasi manajemen pertanian kopi dari hulu ke hilir
+
+to be inserted..
